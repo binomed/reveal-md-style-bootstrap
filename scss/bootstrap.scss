@@ -38,6 +38,10 @@
       float: right;
       margin-left: 10px;
     }
+
+    div.hidden-normal+*{
+        display:none;   
+    }
 }
 
 /*
